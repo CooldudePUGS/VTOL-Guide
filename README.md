@@ -1,4 +1,4 @@
-# VTOL information
+# VTOL Information
 VTOL is a mod manager for installing and managing mods for the Northstar client made for Titanfall 2. You can find links to install it on the [Northstar Website](https://northstar.tf), or on [VTOL's GitHub page](https://github.com/R2NorthstarTools/VTOL).
 
 # Main Menu
@@ -16,7 +16,7 @@ These small tabs near the middle of the VTOL window show you whether the Master 
 If you are unsure if you have EA or Origin, you have EA.
 ![server-status](https://user-images.githubusercontent.com/70904206/219880687-1a2eaa8f-4f81-4d55-8af4-286b85f803b1.png)
 
-## Northstar Instalation/Locate Titanfall 2 Install
+## Northstar Installation/Locate Titanfall 2 Install
 The final parts of the Main Menu are at the bottom, showing your game's directory with a button to Locate Titanfall 2 Install, a small button next to this, and a button reading "Update +Northstar"
 ![northstar-installation-info](https://user-images.githubusercontent.com/70904206/219880707-ed92e770-5784-4ff2-9414-36b4de3f2dbc.png)
 
@@ -90,7 +90,7 @@ The third screen is an implementation of Spoon's [Adovate Tool](https://github.c
 
 ## External Tools
 ![vtol-external-tools](https://user-images.githubusercontent.com/70904206/219881655-f6a44137-6daf-49b1-9daf-aebbc3e44da4.png)
-The fourth screen lists a lot of commonly used tools by modders to help create mods easier. You can get more info about each tool by clicking the Information icon in the top right of the image for each respective tool.
+The fourth screen lists a lot of commonly used tools by modders to help create mods easier. You can get more info about each tool by clicking the information icon in the top right of the image for each respective tool.
 
 ## About
 ![vtol-about](https://user-images.githubusercontent.com/70904206/219881669-3c957167-8ac7-46f2-8ad8-3dd71960c1d3.png)
