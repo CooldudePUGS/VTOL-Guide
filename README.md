@@ -1,7 +1,7 @@
-# VTOL Information
+# vtol guide
 VTOL is a mod manager for installing and managing mods for the Northstar client made for Titanfall 2. You can find links to install it on the [Northstar Website](https://northstar.tf), or on [VTOL's GitHub page](https://github.com/R2NorthstarTools/VTOL).
 
-# Main Menu
+## Main Menu
 ![vtol-main-window](https://user-images.githubusercontent.com/70904206/219880640-b50e8ff4-4db1-4bb9-8bd2-929582783083.png)
 **The Main Menu of VTOL is where you'll probably spend most of your time.**
 
@@ -20,18 +20,18 @@ If you are unsure if you have EA or Origin, you have EA.
 The final parts of the Main Menu are at the bottom, showing your game's directory with a button to Locate Titanfall 2 Install, a small button next to this, and a button reading "Update +Northstar"
 ![northstar-installation-info](https://user-images.githubusercontent.com/70904206/219880707-ed92e770-5784-4ff2-9414-36b4de3f2dbc.png)
 
-# Installation Via VTOL
+## Installation Via VTOL
 VTOL handles most things automatically, but it still may require minimal setup for some users.\
 ![northstar-installation-info-locate](https://user-images.githubusercontent.com/70904206/219880765-0fce4934-33e0-4aef-900b-c18edfb9bc1e.jpg)
 Something you might have to do manually is locate your Titanfall 2 Install. You can do this by pressing the button of the same name on VTOL, and navigating to your Titanfall 2 directory (If you're unsure of what your game path is, check out the Northstar wiki's [Default Directories](https://r2northstar.gitbook.io/r2northstar-wiki/installing-northstar/troubleshooting#game-location) section)
 
 After doing this, Northsar should automatically install. If not, the button at the bottom will read "Install Northstar". Let VTOL install Northstar, and you should be good to go. Once installed, this button will turn into the "Update +Northstar" shown in the screenshot earlier, which you can use to update without having to reinstall.
 
-# Launching Northstar via VTOL
+## Launching Northstar via VTOL
 ![launch-northstar](https://user-images.githubusercontent.com/70904206/219882248-0997abb1-4cf6-4f46-b88a-88de4f65dac2.png)\
 Assuming you've followed everything up to this point, you should be set to hit "Launch Titanfall 2 Northstar" and play on Northstar's servers. If you encounter an error like a crash, Northstar will create a log file in the "titanfall2/r2northstar/logs" directory. You can look at this log yourself, or send it on the [Northstar Discord server](https://discord.com/invite/northstar) and someone can try to look at it and help you.
 
-# Additional Mods/Settings
+## Additional Mods/Settings
 
 ## Tab List
 ![vtol-settings](https://user-images.githubusercontent.com/70904206/219880914-f537fa8e-2596-4bd8-8689-5786f21d189e.png)\
@@ -72,7 +72,7 @@ The fourth tab on VTOL is the "Server" tab. This section allows you to add Launc
 
 For the dedicated server option, you can scroll through this tab to set many different options for a server which can be found on the Northstar Wiki's [Server Hosting Guide](https://r2northstar.gitbook.io/r2northstar-wiki/hosting-a-server-with-northstar/basic-listen-server)
 
-# Tools
+## Tools
 ![vtol-tools](https://user-images.githubusercontent.com/70904206/219882500-79bb66bb-1de1-4f91-ac0c-a5ed40d63ab3.png)
 The fifth tab called "Tools" is meant to help those trying to create mods for Northsar. 
 
@@ -86,7 +86,7 @@ The second screen is an area where you can drag and drop images to the different
 
 ## Advocate
 ![vtol-advocate](https://user-images.githubusercontent.com/70904206/219881630-79ed35b9-1590-4bf6-a093-67049fd48d89.png)
-The third screen is an implementation of Spoon's [Adovate Tool](https://github.com/ASpoonPlaysGames/Advocate), where you can convert an old style skin mod to a mod that can be installed by everyone like a normal mod. Please give credit to the original skin owner while doing this. (If confused, following the earlier link to Github describes how to set up Advocate)
+The third screen is an implementation of Spoon's [Advocate Tool](https://github.com/ASpoonPlaysGames/Advocate), where you can convert an old style skin mod to a mod that can be installed by everyone like a normal mod. Please give credit to the original skin owner while doing this. (If confused, following the earlier link to Github describes how to set up Advocate)
 
 ## External Tools
 ![vtol-external-tools](https://user-images.githubusercontent.com/70904206/219881655-f6a44137-6daf-49b1-9daf-aebbc3e44da4.png)
